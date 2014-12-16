@@ -1,2 +1,15 @@
 [
+    {
+        "remote": "venture",
+        "repository": "android_kernel_lge_hammerhead",
+        "target_path": "kernel/lge/hammerhead",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "venture",
+        "repository": "android_vendor_lge",
+        "target_path": "vendor/lge",
+        "revision": "lollipop"
+    }
+][
 ]
