@@ -1,13 +1,13 @@
 [
     {
         "remote": "venture",
-        "repository": "android_kernel_lge_hammerhead",
+        "repository": "VentureROM-L/android_kernel_lge_hammerhead",
         "target_path": "kernel/lge/hammerhead",
         "branch": "lollipop"
     },
     {
         "remote": "venture",
-        "repository": "android_vendor_lge",
+        "repository": "VentureROM-L/android_vendor_lge",
         "target_path": "vendor/lge",
         "branch": "lollipop"
     }
