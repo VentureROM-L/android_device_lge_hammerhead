@@ -22,9 +22,9 @@
 # Kernel inline
 TARGET_KERNEL_SOURCE := kernel/lge/hammerhead
 #TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
-TARGET_KERNEL_CONFIG := custom_hammerhead_defconfig
-TARGET_VARIANT_CONFIG := custom_hammerhead_defconfig
-TARGET_SELINUX_CONFIG := custom_hammerhead_defconfig
+TARGET_KERNEL_CONFIG := venture_hammerhead_defconfig
+TARGET_VARIANT_CONFIG := venture_hammerhead_defconfig
+TARGET_SELINUX_CONFIG := venture_hammerhead_defconfig
 
 PRODUCT_COPY_FILES += \
     device/lge/hammerhead/init.hammerhead.rc:root/init.hammerhead.rc \
